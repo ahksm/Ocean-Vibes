@@ -241,181 +241,181 @@ const cards = [{
     {
         id: 3,
         category: "animal",
-        img: "../img/gallery/animal-01.jpg",
+        img: "img/gallery/animal-01.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 4,
         category: "building",
-        img: "../img/gallery/building-01.jpg",
+        img: "img/gallery/building-01.jpg",
         desc: "templatemo is the best website for free css templates."
     },
     {
         id: 5,
         category: "portrait",
-        img: "../img/gallery/portrait-02.jpg",
+        img: "img/gallery/portrait-02.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 6,
         category: "nature",
-        img: "../img/gallery/nature-02.jpg",
+        img: "img/gallery/nature-02.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 7,
         category: "animal",
-        img: "../img/gallery/animal-02.jpg",
+        img: "img/gallery/animal-02.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 8,
         category: "building",
-        img: "../img/gallery/building-02.jpg",
+        img: "img/gallery/building-02.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 9,
         category: "portrait",
-        img: "../img/gallery/portrait-03.jpg",
+        img: "img/gallery/portrait-03.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 10,
         category: "animal",
-        img: "../img/gallery/animal-03.jpg",
+        img: "img/gallery/animal-03.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 11,
         category: "building",
-        img: "../img/gallery/building-03.jpg",
+        img: "img/gallery/building-03.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 12,
         category: "portrait",
-        img: "../img/gallery/portrait-04.jpg",
+        img: "img/gallery/portrait-04.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 13,
         category: "animal",
-        img: "../img/gallery/animal-04.jpg",
+        img: "img/gallery/animal-04.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 14,
         category: "building",
-        img: "../img/gallery/building-04.jpg",
+        img: "img/gallery/building-04.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 15,
         category: "portrait",
-        img: "../img/gallery/portrait-05.jpg",
+        img: "img/gallery/portrait-05.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 16,
         category: "animal",
-        img: "../img/gallery/animal-05.jpg",
+        img: "img/gallery/animal-05.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 17,
         category: "building",
-        img: "../img/gallery/building-05.jpg",
+        img: "img/gallery/building-05.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 18,
         category: "portrait",
-        img: "../img/gallery/portrait-06.jpg",
+        img: "img/gallery/portrait-06.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 19,
         category: "animal",
-        img: "../img/gallery/animal-06.jpg",
+        img: "img/gallery/animal-06.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 20,
         category: "building",
-        img: "../img/gallery/building-06.jpg",
+        img: "img/gallery/building-06.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 21,
         category: "portrait",
-        img: "../img/gallery/portrait-07.jpg",
+        img: "img/gallery/portrait-07.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 22,
         category: "animal",
-        img: "../img/gallery/animal-07.jpg",
+        img: "img/gallery/animal-07.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 23,
         category: "building",
-        img: "../img/gallery/building-07.jpg",
+        img: "img/gallery/building-07.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 24,
         category: "portrait",
-        img: "../img/gallery/portrait-08.jpg",
+        img: "img/gallery/portrait-08.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 25,
         category: "nature",
-        img: "../img/gallery/nature-03.jpg",
+        img: "img/gallery/nature-03.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 26,
         category: "nature",
-        img: "../img/gallery/nature-04.jpg",
+        img: "img/gallery/nature-04.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 27,
         category: "nature",
-        img: "../img/gallery/nature-05.jpg",
+        img: "img/gallery/nature-05.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 28,
         category: "nature",
-        img: "../img/gallery/nature-06.jpg",
+        img: "img/gallery/nature-06.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 29,
         category: "nature",
-        img: "../img/gallery/nature-07.jpg",
+        img: "img/gallery/nature-07.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 30,
         category: "nature",
-        img: "../img/gallery/nature-08.jpg",
+        img: "img/gallery/nature-08.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 31,
         category: "animal",
-        img: "../img/gallery/animal-08.jpg",
+        img: "img/gallery/animal-08.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 32,
         category: "building",
-        img: "../img/gallery/building-08.jpg",
+        img: "img/gallery/building-08.jpg",
         desc: "templatemo is the best website for free css templates."
     },
 ];
