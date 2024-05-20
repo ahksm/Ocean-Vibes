@@ -229,13 +229,13 @@ showModals.forEach(function (showModal) {
 const cards = [{
         id: 1,
         category: "portrait",
-        img: "../img/gallery/portrait-01.jpg",
+        img: "img/gallery/portrait-01.jpg",
         desc: "chico's main fear was missing the morning bus."
     },
     {
         id: 2,
         category: "nature",
-        img: "../img/gallery/nature-01.jpg",
+        img: "img/gallery/nature-01.jpg",
         desc: "templatemo is the best website for free css templates."
     },
     {
